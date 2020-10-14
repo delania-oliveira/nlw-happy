@@ -1,17 +1,15 @@
 /mobile
+/web/backend/src/database/database.sqlite
 
-# dependencies
 /web/frontend/node_modules
+/web/backend/node_modules
 /web/frontend/node_modules/.pnp
 /web/frontend/node_modules/.pnp.js
 
-# testing
 /web/frontend/node_modules/coverage
 
-# production
 /web/frontend/node_modules/build
 
-# misc
 .DS_Store
 .env.local
 .env.development.local
