@@ -1,6 +1,6 @@
 
 /web/backend/src/database/database.sqlite
-
+/web/backend/uploads
 /web/frontend/node_modules
 /web/backend/node_modules
 /web/frontend/node_modules/.pnp
