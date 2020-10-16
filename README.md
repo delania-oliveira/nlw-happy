@@ -74,7 +74,7 @@ $ yarn
 #ou
 $ npm install
 
-# crie um arquivo chamado database.sqlite na pasta web/backend/database
+# crie um arquivo chamado database.sqlite na pasta web/backend/src/database
 
 # Execute a aplicação
 $ yarn dev
