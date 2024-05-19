@@ -3,12 +3,12 @@
 <h1 align="center"> Next Level Week #3 - Happy </h1>
 
 <p align="center">
- <a href="https://github.com/sihann/nlw-happy/issues">Bugs</a> • 
- <a href="https://github.com/sihann/nlw-happy/blob/master/LICENSE">Licença</a> 
+ <a href="https://github.com/delania-oliveira/nlw-happy/issues">Bugs</a> • 
+ <a href="https://github.com/delania-oliveira/nlw-happy/blob/master/LICENSE">Licença</a> 
 </p>
 
 <div align="center">
- <img src="https://img.shields.io/github/repo-size/sihann/nlw-happy?color=29B6D1&style=for-the-badge"> <img src="https://img.shields.io/github/languages/count/sihann/nlw-happy?color=29B6D1&style=for-the-badge"> <img src="https://img.shields.io/github/last-commit/sihann/nlw-happy?color=29B6D1&style=for-the-badge"> <img src="https://img.shields.io/github/license/sihann/nlw-happy?color=29B6D1&style=for-the-badge"> 
+ <img src="https://img.shields.io/github/repo-size/delania-oliveira/nlw-happy?color=29B6D1&style=for-the-badge"> <img src="https://img.shields.io/github/languages/count/delania-oliveira/nlw-happy?color=29B6D1&style=for-the-badge"> <img src="https://img.shields.io/github/last-commit/delania-oliveira/nlw-happy?color=29B6D1&style=for-the-badge"> <img src="https://img.shields.io/github/license/delania-oliveira/nlw-happy?color=29B6D1&style=for-the-badge"> 
  </div>
 
 -----
@@ -45,7 +45,7 @@
 
 ```bash
 # clone o repositorio 
-$ git clone https://github.com/sihann/nlw-happy
+$ git clone https://github.com/delania-oliveira/nlw-happy
 ```
 
 - Frontend
@@ -85,7 +85,7 @@ $ npm dev
 Pronto, agora é possivel acessar a aplicação a partir da rota [http://localhost:3000](http://localhost:3000)
 
 ## :page_facing_up: Licença
-![GitHub](https://img.shields.io/github/license/sihann/nlw-happy?color=29B6D1&style=for-the-badge)
+![GitHub](https://img.shields.io/github/license/delania-oliveira/nlw-happy?color=29B6D1&style=for-the-badge)
 
 -----
 <p align="center">Feito com  :purple_heart: por Delania Oliveira.  :wave:</p>
